@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Capitulo10.cs" />
     <Compile Include="Capitulo12.cs" />
     <Compile Include="Capitulo9.cs" />
     <Compile Include="Program.cs" />
