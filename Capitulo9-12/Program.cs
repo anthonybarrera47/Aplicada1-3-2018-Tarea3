@@ -10,7 +10,7 @@ namespace Capitulo9_12
     {
         static void Main(string[] args)
         {
-            Capitulo12.Ejercicio1();
+            Capitulo12.Ejercicio1(5);
         }
     }
 }
