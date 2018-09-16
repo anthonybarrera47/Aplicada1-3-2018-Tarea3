@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace Capitulo9_12
 {
-    class Program
+    public class Capitulo12
     {
-        static void Main(string[] args)
+        public Capitulo12()
         {
-            Capitulo12.Ejercicio1();
+
         }
+        public static int Ejercicio1(int n)
+        {
+            return n = (n<2) ? n: n*Ejercicio1(n-1);
+        } 
     }
 }
